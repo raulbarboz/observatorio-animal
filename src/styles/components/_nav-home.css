@@ -1,0 +1,20 @@
+.nav-home, .nav-home ul{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-home{
+    margin-top:20px;
+    font-size: x-large;
+}
+
+.nav-home ul{
+    text-decoration:none;
+    list-style: none;
+}
+
+.nav-home ul li{
+    width:180px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,14 @@
+.img-home{
+    position: absolute;
+    right:0;
+    bottom:0;
+}
+.home-content{
+    width:50vw;
+    height:82vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
